@@ -1,0 +1,3 @@
+Pepsi|8.00
+Iced Tea|9.00
+Vodka|7.00
