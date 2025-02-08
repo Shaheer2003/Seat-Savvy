@@ -3,7 +3,7 @@ SeatSavvy is a movie ticket booking system that allows users to browse movies, s
 
 Key Features:
 ✅ User Authentication – Supports guest login and member login with secure account management.
-✅ Movie Selection & Booking – Users can view movie schedules, choose seats, and get e-tickets.
+✅ Movie Selection & Booking – Users can view movie schedules, choose seats.
 ✅ Seat Reservation System – Real-time seat availability with custom seat selection.
 ✅ Payment Processing – Options for cash, debit, and credit card payments.
 ✅ Membership Management – Members can register, renew accounts, and receive special discounts.
